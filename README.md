@@ -1,6 +1,14 @@
 # ReCheck SDK 
 
-ReCheck invented an end-to-end encryption protocol for secure data: transfer, fetching, storage and validation. We decided to create some tools implementing parts of this protocol and share them with the world. 
+## Overview of our encryption protocol
+
+ReCheck developed an end-to-end encryption protocol for secure data interaction and transfer.
+
+Using the protocol, users can encrypt, decrpyt data and exchange it safely by providing the blockchain ID of the recepient. The protocol involves symmetric and asymmetric encryption to achieve a lightweight authentication process through devices such as smartphones. However, the protocol can be used for end-to-end encryption and data tracking by other type of devices such as the ones of IoT nature as far as they can hold a key pair and are connected to the internet.
+
+The user can upload, open or share data using another device without the need to expose their private key from the identity device. The protocol also ensures that the data is never sent in a decrypted (vulnerable) state. 
+
+We decided to create some tools implementing this protocol and share them with the world.
 
 ![protocol](protocol.png)
 
