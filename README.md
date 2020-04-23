@@ -10,7 +10,7 @@ The user can upload, open or share data using another device without the need to
 
 We decided to create some tools implementing this protocol and share them with the world.
 
-![protocol](ligthProtocol.png)
+![ligthProtocol](ligthProtocol.png)
 
 ## Table of Contents
  - [ReCheck SDK Components](#recheck-sdk-components)
