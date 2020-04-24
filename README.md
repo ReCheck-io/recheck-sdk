@@ -1,5 +1,7 @@
 # ReCheck SDK 
 
+This repository contains a summary of the encryption protocol ReCheck developed and afterwars links to the tools implementing this tool with a bit of description. We believe this will help you to choose which one is going to be the most useful for you and continue to the tool's repository where more detail can be found. 
+
 ## Overview of our encryption protocol
 
 ReCheck developed an end-to-end encryption protocol for secure data interaction and transfer.
