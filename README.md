@@ -1,3 +1,4 @@
+[![Website recheck.io](https://img.shields.io/badge/Website-recheck.io-brightgreen.svg)](https://recheck.io/) 
 # ReCheck SDK 
 
 This repository contains a **summary of the encryption protocol** ReCheck developed and afterwars **links to the tools** implementing this protocol with a bit of description. We believe this will help you to choose which one is going to be the most useful for you and **continue to the tool's repository where more detail** can be found. 
@@ -21,6 +22,7 @@ We decided to create some tools implementing this protocol and share them with t
     - [Java Client Library](#java-client-library)
     - [Vue Blockchain Authorizer](#vue-blockchain-authorizer-components-and-app)
     - [Mobile Webapp](#mobile-webapp)
+    - [Blockchain verifier](#blockchain-verifier)
 
 
 ## ReCheck SDK Components
@@ -51,3 +53,8 @@ This [application](https://github.com/ReCheck-io/recheck-mobile-webapp) can be u
 
 You can [check it out here](https://github.com/ReCheck-io/recheck-mobile-webapp).
 
+### Blockchain verifier
+
+This [application](https://github.com/ReCheck-io/recheck-verifier) can verify if a transaction - share, upload, or open has been made. Where open is when the shared file has been decrypted for the first time by the recepient. At this moment the verification of data can be done on information that exist on our test environment - https://beta.recheck.io. 
+
+You can [check it out here](https://github.com/ReCheck-io/recheck-verifier)
