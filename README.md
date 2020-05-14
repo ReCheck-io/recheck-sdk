@@ -1,4 +1,4 @@
-[![Website recheck.io](https://img.shields.io/badge/Website-recheck.io-brightgreen.svg)](https://recheck.io/) <a href="https://discord.gg/a2S6WX"><img src="https://img.shields.io/discord/675683560673509386?logo=discord" alt="chat on Discord"></a>
+[![Website recheck.io](https://img.shields.io/badge/Website-recheck.io-brightgreen.svg)](https://recheck.io/) <a href="https://discord.gg/3KwFw72"><img src="https://img.shields.io/discord/675683560673509386?logo=discord" alt="chat on Discord"></a>
 # ReCheck SDK 
 
 This repository contains a **summary of the encryption protocol** ReCheck developed and afterwars **links to the tools** implementing this protocol with a bit of description. We believe this will help you to choose which one is going to be the most useful for you and **continue to the tool's repository where more detail** can be found. 
