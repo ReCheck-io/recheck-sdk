@@ -3,6 +3,15 @@
 
 This repository contains a **summary of the encryption protocol** ReCheck developed and afterwars **links to the tools** implementing this protocol with a bit of description. We believe this will help you to choose which one is going to be the most useful for you and **continue to the tool's repository where more detail** can be found. 
 
+## You can start recording data on blockchain right now! 
+
+### Play and try whatever comes to your mind with the current tools on our test environment
+We have the environment ready for you to try out how the system works at https://beta.recheck.io. Break it, have fun, come up with new ideas of usage. 
+
+[See how you can do that with our CLI tool by clicking here.](https://github.com/ReCheck-io/hammerJS)
+### You loved our test environment and decided to record on the main net?
+You can create a new identity on our production environment - https://def.recheck.io. Login and then send us your public key. You can find us in the [Discord channel](https://discord.gg/3KwFw72) or on our website https://recheck.io.
+
 ## Overview of our encryption protocol
 
 ReCheck developed an end-to-end encryption protocol for secure data interaction and transfer.
