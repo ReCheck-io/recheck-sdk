@@ -1,14 +1,18 @@
 [![Website recheck.io](https://img.shields.io/badge/Website-recheck.io-brightgreen.svg)](https://recheck.io/) <a href="https://discord.gg/3KwFw72"><img src="https://img.shields.io/discord/675683560673509386?logo=discord" alt="chat on Discord"></a>
 # ReCheck SDK 
 
-This repository contains a **summary of the encryption protocol** ReCheck developed and afterwars **links to the tools** implementing this protocol with a bit of description. We believe this will help you to choose which one is going to be the most useful for you and **continue to the tool's repository where more detail** can be found. 
+The ReCheck SDK provides a set of tools as an easy and quick way to build applications that are backed by blockchain. Using the SDK developers are in position to introduce reliably the needed layer for data protection, integrity and its secure exchange.
+
+Our data exchange protocol provides end-to-end encryption and is capable of recording verifiable trails. Each interaction with the data can be verified with the blockchain independently. 
+
+Choose the right tool for you and continue to the repository where you can find the source code, examples and more details.
 
 ## You can start recording data on blockchain right now! 
 
 ### Play and try whatever comes to your mind with the current tools on our test environment
 We have the environment ready for you to try out how the system works at https://beta.recheck.io. Break it, have fun, come up with new ideas of usage. 
 
-[See how you can do that with our CLI tool by clicking here.](https://github.com/ReCheck-io/hammerJS)
+#### [See how you can do that with our CLI tool by clicking here.](https://github.com/ReCheck-io/hammerJS)
 ### You loved our test environment and decided to record on the main net?
 You can create a new identity on our production environment - https://def.recheck.io. Login and then send us your public key. You can find us in the [Discord channel](https://discord.gg/3KwFw72) or on our website https://recheck.io.
 
