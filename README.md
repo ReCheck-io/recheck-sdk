@@ -10,7 +10,13 @@ Choose the right tool for you and continue to the repository where you can find 
 ## You can start recording data on blockchain right now! 
 
 ### Play and try whatever comes to your mind with the current tools on our test environment
-We have the environment ready for you to try out how the system works at https://beta.recheck.io. Break it, have fun, come up with new ideas of usage. 
+
+#### We have a functionality test page
+
+Hop on _https://libdemo.recheck.io/_ and give a fast preview of our most important functionalities. 
+
+#### We have a test environment 
+The environment is ready for you to try out how the system works at https://beta.recheck.io. Break it, have fun, come up with new ideas of usage. 
 
 #### [See how you can do that with our CLI tool by clicking here.](https://github.com/ReCheck-io/hammerJS)
 ### You loved our test environment and decided to record on the main net?
