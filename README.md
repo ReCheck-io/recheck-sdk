@@ -77,3 +77,6 @@ You can [check it out here](https://github.com/ReCheck-io/recheck-mobile-webapp)
 This [application](https://github.com/ReCheck-io/recheck-verifier) can verify if a transaction - share, upload, or open has been made. Where open is when the shared file has been decrypted for the first time by the recepient. At this moment the verification of data can be done on information that exist on our test environment - https://beta.recheck.io. 
 
 You can [check it out here](https://github.com/ReCheck-io/recheck-verifier).
+
+
+### [Glossary](Glossary.md)
