@@ -44,7 +44,7 @@ __recipientId__ - hash of the user that is about to receive a shared file.
 
 __recipientEmail__ - the email that is about to receive a shared file. 
 
-__recordId__ - 
+__recordId__ - the hash of the dataId (with keccak256).
 
 __requestBodyHashSignature__ - this is the data put in and sent into the POST request and then hashed and signed, so that when it is received by the backend a checksum can be done and to verify that the request hasn’t been tampered with. 
 
