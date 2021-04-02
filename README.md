@@ -32,7 +32,7 @@ The user can upload, open or share data using another device without the need to
 
 We decided to create some tools implementing this protocol and share them with the world.
 
-![ligthProtocol](ligthProtocol.png)
+![ligthProtocol](lightProtocol.png)
 
 ## Table of Contents
  - [ReCheck SDK Components](#recheck-sdk-components)
