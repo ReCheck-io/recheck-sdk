@@ -1,4 +1,4 @@
-[![Website recheck.io](https://img.shields.io/badge/Website-recheck.io-brightgreen.svg)](https://recheck.io/) <a href="https://discord.gg/3KwFw72"><img src="https://img.shields.io/discord/675683560673509386?logo=discord" alt="chat on Discord"></a>
+[![Website recheck.io](https://img.shields.io/badge/Website-recheck.io-brightgreen.svg)](https://recheck.io/) 
 # ReCheck SDK 
 
 The ReCheck SDK provides a set of tools as an easy and quick way to build applications that are backed by blockchain. Using the SDK developers are in position to introduce reliably the needed layer for data protection, integrity and its secure exchange.
